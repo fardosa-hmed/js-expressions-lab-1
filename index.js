@@ -58,8 +58,8 @@ const day28TempC = 17
 const day28TempF = (day28TempC * 9 / 5) + 32
 const day29TempF = 76
 const day29TempC = (day29TempF - 32) * 5 / 9
-const day30TempF = 29
-const day30TempC = (day30TempF - 32) * 5 / 9
+const day30TempC = 29
+const day30TempF = (day30TempC * 9 / 5) + 32
 
 const tot_temperature_in_celsius =
   day1TempC + day2TempC + day3TempC + day4TempC + day5TempC +
